@@ -30,7 +30,7 @@ def search(search_element, sorted_values):
     else:
         print("Element Not Found!!")
 
-#Anish is play boy
+#Anish is play boy, because he has 200 gfs
 values = []
 should_continue = 'T'
 while(should_continue=='T'):
